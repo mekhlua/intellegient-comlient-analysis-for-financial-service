@@ -3,3 +3,4 @@ data/
 *.csv
 *.json
 notebooks/vector_store/
+.env
